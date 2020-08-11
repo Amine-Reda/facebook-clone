@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import getPosts from "../api/getPosts";
 import SinglePost from "./SinglePost";
 import { postRef } from "../firebase";
 
