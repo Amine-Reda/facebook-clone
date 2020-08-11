@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App and fireBase](https://github.com/facebook/create-react-app).
 you should create your own account on fireBase then you must configure the app with fireBase
 
+##live site https://reverent-gates-a0e94a.netlify.app/ 
+
 ## Available Scripts
 
 In the project directory, you can run:
