@@ -1,9 +1,15 @@
 # Facebook Clone with Reactjs and Firebase
 
+### [Live Site](https://reverent-gates-a0e94a.netlify.app/)
+
+![Facebook clone Application](assets/facebook.jpg)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 This project was bootstrapped with [Create React App and fireBase](https://github.com/facebook/create-react-app).
 you should create your own account on fireBase then you must configure the app with fireBase
 
-## `live site` https://reverent-gates-a0e94a.netlify.app/ 
+## `live site` https://reverent-gates-a0e94a.netlify.app/
 
 ## Available Scripts
 
